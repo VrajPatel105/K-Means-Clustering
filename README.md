@@ -7,7 +7,7 @@
   - Assumption of Kmeans
   - Limitations of Kmeans
 - Silhouette Score
-- Exploring Hyperparameters
+- Exploring Hyperparameters 
 - Time and Space Complexity
 - # Mini Batch Kmeans
 - Research Paper explaination
