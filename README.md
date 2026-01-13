@@ -17,6 +17,6 @@
   - Density Based Clustering
   - Distribution/Model based Clustering
  
-This repository also contains internal code of kmeans 
+This repository also contains internal code of kmeans  
 This also contains applied code on NYC Yellow Taxi Trip data
 This also contains a code for a special exercise : The main task of the exercise is that I have to design a simple web based app (This is in streamlit) where user can upload an image and we have to give out the top 5 major used colors.
